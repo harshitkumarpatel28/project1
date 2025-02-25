@@ -15,7 +15,7 @@ https://harshitkumarpatel.co.uk/project1/
 ## Built With
 - HTML, CSS, Bootstrap 5, Javacsript, JQUERY, AJAX, PHP, Leaflet JS, Geonames API, Weather API, ExchangeRate API, NewsData.IO API
 
-## 📂 Folder Structure
+## Folder Structure
 ```bash
 ├── assets
 ├── data
